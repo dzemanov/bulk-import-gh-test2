@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: bulk-import-gh-test2
+  annotations:
+    github.com/project-slug: dzemanov/bulk-import-gh-test2
+spec:
+  type: other
+  lifecycle: unknown
+  owner: user:development/guest
